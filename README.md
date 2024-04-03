@@ -21,6 +21,7 @@ The goal is to provide insights into the current status and historical trends of
                   2.5 Perform age profile analysis to examine the demographics of patients on the waiting list.
 
 **3. Visualization:**
+
                   3.1 Create a summary page to present key metrics such as average and median waiting times, total waiting list, and trend analysis.
                   3.2 Develop a detailed page for granular analysis, including specialty-level and age profile visualizations to provide deeper insights into the data.
 
