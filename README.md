@@ -37,3 +37,9 @@ By analyzing and visualizing this data, stakeholders can make informed decisions
 **Demo Link:**
 https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/a6bcf934-cad1-47e9-bac6-c3fda73c6376
 
+**OUTPUT IMAGES:**
+<img width="344" alt="DRILL DOWN" src="https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/9ef3e3b4-e091-42c8-b5ed-8cc4d6a2ec8d">
+<img width="619" alt="DETAILED VIEW" src="https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/5ead1111-b9ef-495e-a1eb-c1bfa0fe32ae">
+<img width="619" alt="OUTPATIENT" src="https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/a03020ce-6d87-4805-8b54-7065b14ae540">
+<img width="620" alt="INPATIENT" src="https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/7ba0d9a6-985c-46d3-9baa-d752798c06dd">
+<img width="611" alt="DAYCASE" src="https://github.com/CodewithAshwani/Patient-Waitlist-Analytics/assets/73930456/636749c8-7ae7-45c3-afdd-f0828950c36a">
