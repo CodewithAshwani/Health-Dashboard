@@ -11,12 +11,13 @@ The goal is to provide insights into the current status and historical trends of
 **Methodology:**
 
 **1. Data Collection:** Gather patient waiting list data from healthcare facilities for the years 2018 to 2021, including information on inpatient and outpatient categories.
+
 **2. Data Analysis:**
+
                   2.1 Calculate average and median waiting times for both inpatient and outpatient categories to understand the typical waiting experience of patients.
                   2.2 Summarize the total current waiting list for each year to provide an overview of the demand for healthcare services.
                   2.3 Analyze monthly trends in the waiting list for inpatient and outpatient categories to identify any patterns or seasonality.
                   2.4 Conduct specialty-level analysis to understand the distribution of patients across different medical specialties.
-
                   2.5 Perform age profile analysis to examine the demographics of patients on the waiting list.
 
 **3. Visualization:**
