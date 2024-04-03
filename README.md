@@ -8,6 +8,11 @@ The goal is to provide insights into the current status and historical trends of
 2. Analyze the historical monthly trend of the waiting list, focusing on inpatient and outpatient categories.
 3. Conduct detailed analysis at specialty levels and age profiles to understand the distribution of patients on the waiting list.
 
+**Problem Statement:**
+The healthcare system faces challenges in managing patient wait lists efficiently, both for inpatient and outpatient services. Lack of visibility into current wait list statuses and historical trends inhibits effective resource allocation and patient management. 
+Additionally, without detailed analyses at the specialty and age levels, it is difficult to identify areas of improvement or target interventions effectively. Therefore, the project aims to address these challenges by implementing a comprehensive analysis framework to track, analyze, and optimize patient wait list management within the healthcare system.
+
+
 **Methodology:**
 
 **1. Data Collection:** Gather patient waiting list data from healthcare facilities for the years 2018 to 2021, including information on inpatient and outpatient categories.
